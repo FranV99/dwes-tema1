@@ -1,0 +1,42 @@
+[
+    {
+        "pregunta": "¿Qué arquitectura se usa en el desarrollo web?",
+        "respuesta": "En el desarrollo web se usa la arquitectura cliente/servidor"
+    },
+    {
+        "pregunta": "¿Qué es Internet?",
+        "respuesta": "Internet es un sistema de redes interconectadas mediante distintos protocolos que ofrece una gran diversidad de servicios y recursos como por ejemplo páginas web."
+    },
+    {
+        "pregunta": "¿A qué llamamos Web?",
+        "respuesta": "Web es un espacio de información donde documentos y otros recursos web pueden ser accedidos a través de Internet utilizando navegadores web."
+    },
+    {
+        "pregunta": "¿Qué otros nombres recibe la Web?",
+        "respuesta": "Web tambien es conocida como World Wide Web."
+    },
+    {
+        "pregunta": "En la arquitectura que se emplea en la Web, ¿qué actor se encarga de hacer el request?",
+        "respuesta": "El actor que se encarga de hacer el request son los clientes, por ejemplo, un ordenador o un teléfono móvil."
+    },
+    {
+        "pregunta": "En la arquitectura que se emplea en la Web, ¿qué actor se encarga de hacer el response?",
+        "respuesta": "El actor que se encarga de hacer el response es el servidor."
+    },
+    {
+        "pregunta": "¿En qué formato suelen ser las respuestas de los servidores web?",
+        "respuesta": "Las respuestas suelen ser en formato HTML, aunque en el caso de los servicios web son XML o JSON."
+    },
+    {
+        "pregunta": "En la arquitectura que se emplea en la Web, ¿qué actor se encarga de hacer el response?",
+        "respuesta": "El actor que se encarga de hacer el response es el servidor."
+    },
+    {
+        "pregunta": "¿Quién se encarga de los estándares en Internet?",
+        "respuesta": "Los estándares de Internet son desarrollados por el Grupo de Trabajo de Ingeniería de Internet, o IETF."
+    },
+    {
+        "pregunta": "¿Quién es el encargado de los estándares en la Web?",
+        "respuesta": "El encargado de los estándares en la Web es W3C, en inglés, World Wide Web Consortium."
+    }
+]
